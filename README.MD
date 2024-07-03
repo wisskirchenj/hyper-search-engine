@@ -26,5 +26,6 @@ Have fun!
 
 01.07.24 Project started. Just repo setup with Poetry.
 
+03.07.24 Stage 1 completed. Read the corpus files and create a dictionary of theirs contents - debug print lengths. 
 ```
 
