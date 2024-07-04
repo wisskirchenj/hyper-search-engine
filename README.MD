@@ -22,10 +22,18 @@ Have fun!
 
 ## Project progress
 
-[//]: # (Project was completed on 01.07.24)
+Project was completed on 03.07.24
 
 01.07.24 Project started. Just repo setup with Poetry.
 
-03.07.24 Stage 1 completed. Read the corpus files and create a dictionary of theirs contents - debug print lengths. 
+03.07.24 Stage 1 completed. Read the corpus files and create a dictionary of theirs contents - debug print lengths.
+
+03.07.24 Stage 2 completed. Implement TF-IDF and cosine similarities.
+
+03.07.24 Stage 3 completed. Filter documents on matches, sort by cosine similarity, and parameterize limit and offset.
+
+03.07.24 Stage 4 completed. Use spacy with en_core_web_sm model to tokenize query and documents. Provide hit statistics.
+
+03.07.24 Final Stage 5 completed. Highlight the search hits in the documents and show context around it.
 ```
 
